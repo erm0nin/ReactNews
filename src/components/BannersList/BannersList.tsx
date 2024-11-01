@@ -1,4 +1,4 @@
-import withSkeleton from '../../helpers/hocs/WithSkeleton'
+import withSkeleton from '../../helpers/hocs/withSkeleton'
 import NewsBanner from '../NewsBanner/NewsBanner'
 import styles from './styles.module.css'
 const BannersList = ({ banners }) => {
